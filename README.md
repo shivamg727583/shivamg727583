@@ -1,7 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack and Mern Stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Backend development and Java.**
+- 🌱 I’m currently learning **Java + DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamg727583](https://github.com/shivamg727583)
 
